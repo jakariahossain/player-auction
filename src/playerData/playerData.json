@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Mashrafe Mortaza",
+    "photo": "https://i.ibb.co/KhrQ9SP/Mashrafe-Mortaza.png",
+    "team": "Dhaka Platoons",
+    "price": 1500
+  },
+  {
+    "id": 2,
+    "name": "Tamim Iqbal",
+    "photo": "https://i.ibb.co/Kb12RSk/Tamim.png",
+    "team": "Dhaka Platoons",
+    "price": 1400
+  },
+  {
+    "id": 3,
+    "name": "Shadab Khan",
+    "photo": "https://i.ibb.co/BVQHzPb/Shadab-Kha.png",
+    "team": "Dhaka Platoons",
+    "price": 1600
+  },
+  {
+    "id": 4,
+    "name": "Mushfiqur Rahim",
+    "photo": "https://i.ibb.co/Nywr3Q0/musfiqur.png",
+    "team": "Khulna Tigers",
+    "price": 1400
+  },
+  {
+    "id": 5,
+    "name": "Chris Gayle",
+    "photo": "https://i.ibb.co/LnSC9L8/Chris-Gayle.png",
+    "team": "Ctg. Challengers",
+    "price": 3100
+  },
+  {
+    "id": 6,
+    "name": "Mahmudullah",
+    "photo": "https://i.ibb.co/thPV9d4/Mahmudullah.png",
+    "team": "Ctg. Challengers",
+    "price": 2300
+  },
+  {
+    "id": 7,
+    "name": "Lendl Simmons",
+    "photo": "https://i.ibb.co/Jc9cWgy/Lendl-Simmons.png",
+    "team": "Ctg. Challengers",
+    "price": 2600
+  },
+  {
+    "id": 8,
+    "name": "Dawid Malan",
+    "photo": "https://i.ibb.co/6g8BZB2/Dawid-Malan.png",
+    "team": "Cumilla Warriors",
+    "price": 2200
+  },
+  {
+    "id": 9,
+    "name": "Soumya Sarkar",
+    "photo": "https://i.ibb.co/k0qC8Vg/Soumya-Sarkar.png",
+    "team": "Cumilla Warriors",
+    "price": 1900
+  },
+  {
+    "id": 10,
+    "name": "Andre Russell",
+    "photo": "https://i.ibb.co/6D4Cgc1/Andre-Russell.png",
+    "team": "Rajshahi Royals",
+    "price": 2600
+  },
+  {
+    "id": 11,
+    "name": "Shoaib Malik",
+    "photo": "https://i.ibb.co/684DpBv/Shoaib-Malik.png",
+    "team": "Rajshahi Royals",
+    "price": 2400
+  },
+  {
+    "id": 12,
+    "name": "Liton Das",
+    "photo": "https://i.ibb.co/mt1cQJK/Liton-Das.png",
+    "team": "Rajshahi Royals",
+    "price": 2500
+  },
+  {
+    "id": 13,
+    "name": "Mohammad Nabi",
+    "photo": "https://i.ibb.co/SvrYcQ3/Mohammad-Nabi.png",
+    "team": "Rangpur Rangers",
+    "price": 2600
+  },
+  {
+    "id": 14,
+    "name": "Mustafizur Rahman",
+    "photo": "https://i.ibb.co/zxLsvcQ/Mustafizur-Rahman.png",
+    "team": "Rangpur Rangers",
+    "price": 2700
+  },
+  {
+    "id": 15,
+    "name": "Taskin Ahmed",
+    "photo": "https://i.ibb.co/x5r3zGS/Taskin-Ahmed.png",
+    "team": "Rangpur Rangers",
+    "price": 2900
+  }
+]
